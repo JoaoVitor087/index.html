@@ -1,7 +1,18 @@
-<!
+
+<!doctype html>
 <HTML>
+    <cabeça>
+        <meta charset="utf-8">
+        <title></title>
+        <link rel="stylesheer" href="bootstrap/css/brootstra.min.css">
+    </head>
+    <corpo>
+        <script src="lib/jquery/brootstrap.min.js"></script>
+        <script src="brootstrap/js/brootstrap.min.js"></script>
+
+    </body>
 
 
 
 
-/<html>
+</html>
